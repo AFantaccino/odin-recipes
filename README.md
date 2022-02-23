@@ -1,3 +1,3 @@
-# odin recipe
+#Cooking Recipes Index
 
-Odin Project recipe exercise
+A page that links to different cooking recipes
